@@ -1,14 +1,12 @@
-# Minha Primeira Aula de GitHub
+# 👋 Olá, eu sou [Seu Nome]
 
-Olá! Meu nome é [hhgltr].
+💻 Desenvolvedor apaixonado por tecnologia, programação e criação de soluções que geram impacto.
 
-## O que aprendi hoje
-- Criar conta no GitHub
-- Criar um repositório
-- Editar um arquivo
-- Fazer commit
+## 🚀 Sobre mim
 
-## Meus objetivos
-- [ ] Aprender Git básico
-- [ ] Criar meu portfólio
-- [ ] Trabalhar em equipe com código
+* 🌱 Atualmente aprendendo: **[html]**
+* 🔭 Trabalhando em: calculadora de carbono
+* 👯 Interessado em colaborar em projetos: sla qualquer um ai
+* ⚡ Curiosidade: fa de kiss ,n1 de jaguaruna em cuphead, melhor repositor do minari de jaguaruna
+
+
